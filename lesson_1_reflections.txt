@@ -23,5 +23,9 @@ How might using version control make you more confident to make changes that cou
 
 Because if I break something with the added code, I can go back to a previous version that I had.
 
+***** Here starts the second commit
+From here, we are modyfing the file for having another commit.
+
+
 
 
